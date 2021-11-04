@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "808554371340",
+    "firebase_url": "https://hss-flutix.firebaseio.com",
+    "project_id": "hss-flutix",
+    "storage_bucket": "hss-flutix.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:808554371340:android:662a08ce0fb62d42625129",
+        "android_client_info": {
+          "package_name": "com.example.hss_flutix"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "808554371340-jil1edrtlcroenia7d69lobielqq25c9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCE6p8u-Gwduhcp9w0jGFzqEZGUiZZip9s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "808554371340-jil1edrtlcroenia7d69lobielqq25c9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
